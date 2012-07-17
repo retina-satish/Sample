@@ -9,5 +9,9 @@ Added new line 1
 >>>>>>> 3a633332d57d8952e471da517f417a4e41e056c3
 
 
+<<<<<<< HEAD
 Added 2:06 PM
 Added again
+=======
+Test1 Added
+>>>>>>> 59abd7922963d620e00ca5abcad6b739777ad781
